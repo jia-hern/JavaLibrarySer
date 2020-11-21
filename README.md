@@ -3,11 +3,11 @@
 # README
 
 #### App Objectives
--Implement a simple library managnment system in Java which has the following functions:
- a)open an existing library in the directory (data is stored in a ser file).
- b)save a new/existing library in the directory and then exit the application
- c)view all books in the library
- d)add books to an existing libary(if there are no existing library, this book can be saved to a new library on (b))
+Implement a simple library managnment system in Java which has the following functions:<br>
+ a)open an existing library in the directory (data is stored in a ser file).<br>
+ b)save a new/existing library in the directory and then exit the application<br>
+ c)view all books in the library<br>
+ d)add books to an existing libary(if there are no existing library, this book can be saved to a new library on (b))<br>
 
 
 #### Run Instructions
