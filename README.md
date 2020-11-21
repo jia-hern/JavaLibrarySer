@@ -17,6 +17,6 @@ Assuming that you have a code editor with java installed,
 clone the repository by typing into your terminal : <br>
 git clone https://github.com/jia-hern/JavaLibrarySer.git
 
-To run this file, find MainSystem.java, right click on MainSystem.java and select Run.
+To run this prgoram, find MainSystem.java (located in the src folder) , right click on MainSystem.java and select Run.
 
 
